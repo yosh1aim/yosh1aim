@@ -1,7 +1,7 @@
 <h1 align="center"> Kacper Szymoniak </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D8C9A6&background=00FF1700&center=true&vCenter=true&width=435&lines=data+science+student+by+day;prospect+by+night;Python%2C+SQL+and+R;building+tools+I+actually+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D8C9A6&background=00FF1700&center=true&vCenter=true&width=435&lines=data+science+student+by+day;prospect+by+night;Python%2C+SQL+and+R" alt="Typing SVG" />
 </p>
 
 <p align="center">
